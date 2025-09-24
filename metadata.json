@@ -1,0 +1,7 @@
+{
+  "name": "TOEIC Vocabulary Builder_V2",
+  "description": "An interactive application to learn and practice 5000 essential TOEIC vocabulary words. Features include audio pronunciation, example sentences, a custom word manager, and an AI-powered quiz mode.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

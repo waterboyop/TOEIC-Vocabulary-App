@@ -1,0 +1,16 @@
+{
+  "short_name": "TOEIC Vocab",
+  "name": "TOEIC Vocabulary Builder",
+  "description": "An interactive application to learn and practice 5000 essential TOEIC vocabulary words.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#f8fafc"
+}
